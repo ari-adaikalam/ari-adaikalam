@@ -12,11 +12,10 @@
 
 <br/>
 
-> A passionate AI Product Engineer with hands-on experience building intelligent systems. I bridge the gap between raw data and real-world impact by designing dashboards, automation pipelines, and AI-powered solutions that teams actually use.
+> ## Hi, I'm Ari 👋
+> I'm an Electrical & Electronics Engineering graduate currently pursuing a Master of Artificial Intelligence at UTS.
 >
-> Currently pursuing my Masters in Artificial Intelligence at University of Technology Sydney (UTS). I've led teams, shipped production systems, and published IEEE research, all before finishing undergrad.
->
-> Beyond data and code, I've captained an E-Kart racing team to a national top-3 finish.
+> I build systems at the intersection of AI, machine learning, data engineering, software, and engineering with a particular interest in industrial intelligence, energy systems, intelligent automation, and applied AI.
 
 <br/>
 
